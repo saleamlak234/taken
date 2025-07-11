@@ -1,0 +1,29 @@
+node_modules/
+dist/
+.env    
+# Logs
+*.log   
+# OS generated files
+.DS_Store
+# Build directories
+build/
+# Coverage directory used by tools like istanbul
+coverage/
+# Dependency directories
+jspm_packages/
+# Optional npm cache directory
+.npm
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+
+
+# Optional cache directory for prettier
+.prettier-cache
+# Optional cache directory for rollup
+.rollup.cache
+# Optional cache directory for webpack
+.webpack-cache
